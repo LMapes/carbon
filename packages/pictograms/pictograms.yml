@@ -1775,9 +1775,21 @@
     - scan
 - name: yoga--01
   friendly_name: Yoga 01
+  aliases: 
+  - health
+  - sports
 - name: yoga--02
   friendly_name: Yoga 02
+   aliases: 
+  - health
+  - sports  
 - name: yoga--03
   friendly_name: Yoga 03
+   aliases: 
+  - health
+  - sports
 - name: yoga--04
   friendly_name: Yoga 04
+   aliases: 
+  - health
+  - sports
